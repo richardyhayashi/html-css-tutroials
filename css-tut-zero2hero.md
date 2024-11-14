@@ -23,10 +23,10 @@ Source: `https://github.com/Video-Lab/css-course-content`
 16. Types of Colors
 17. Coloring Text
 18. Background Colors
-19.
-20.
-21.
-22.
+19. Images/URL's in CSS
+20. Other Background Properties
+21. Opacity/Transparency
+22. Gradients
 23.
 24.
 25.

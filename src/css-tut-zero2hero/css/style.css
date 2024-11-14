@@ -1,5 +1,5 @@
 body {
-  background: rgb(204, 229, 255);
+  background: linear-gradient(to bottom, rgb(204, 229, 255), rgba(204, 229, 255, 0.4));
 }
 
 #title {
@@ -8,4 +8,15 @@ body {
 
 .subtitle {
   color: rgb(200, 148, 30);
+}
+
+#service-image {
+  height: 400px;
+  width: 70%;
+
+  /*background: linear-gradient(to right, rgb(94, 255, 126), rgba(94, 255, 126, 0));*/
+  /*background: linear-gradient(to bottom right, rgb(94, 255, 126), rgba(94, 255, 126, 0));*/
+  /*background: linear-gradient(215deg, rgb(94, 255, 126), rgba(94, 255, 126, 0));*/
+  /*background-size: cover;*/
+  background: radial-gradient(circle, red 20%, blue 40%, green 55%);
 }
