@@ -20,8 +20,18 @@ Source: `https://github.com/Video-Lab/css-course-content`
 13. Attribute Selectors
 14. What are Properties?
 15. The CSS General Rule
-16.
-17.
-18.
+16. Types of Colors
+17. Coloring Text
+18. Background Colors
 19.
 20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
