@@ -37,7 +37,7 @@ Source: `https://github.com/Video-Lab/css-course-content`
 30. Changing Content Size
 31. CSS Borders
 32. Margin & Padding
-33.
+33. Float & Display Types
 34.
 35.
 36.

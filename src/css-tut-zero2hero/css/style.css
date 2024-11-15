@@ -41,5 +41,11 @@ body {
   width: 60%;
 
   border: 6px solid rgb(28, 28, 79);
-  padding-right: 40px;
+  margin: 80px 40px;
+
+  float: right;
+}
+
+.site-table {
+  display: inline;
 }
