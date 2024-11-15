@@ -27,11 +27,11 @@ Source: `https://github.com/Video-Lab/css-course-content`
 20. Other Background Properties
 21. Opacity/Transparency
 22. Gradients
-23.
-24.
-25.
-26.
-27.
-28.
+23. Introduction to Types of Units
+24. Text Manipulation
+25. Font Size, Bolding & Style
+26. Font Families
+27. Including External Fonts w/ Google Fonts
+28. Using External Fonts
 29.
 30.
