@@ -33,5 +33,25 @@ Source: `https://github.com/Video-Lab/css-course-content`
 26. Font Families
 27. Including External Fonts w/ Google Fonts
 28. Using External Fonts
-29.
-30.
+29. The CSS Box Model
+30. Changing Content Size
+31. CSS Borders
+32. Margin & Padding
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41.
+42.
+43.
+44.
+45.
+46.
+47.
+48.
+49.
+50.
